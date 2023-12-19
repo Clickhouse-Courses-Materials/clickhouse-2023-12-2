@@ -80,7 +80,7 @@ $ dbt test
 ## DDS
 
 ```text
-order_id | creadit_card | gift_card | total
+order_id | creadit_card_amount | gift_card_amount | total
 1        |     1000     | 0         | 1000
 ```
 Необходимо реализовать следующие агрегации:
