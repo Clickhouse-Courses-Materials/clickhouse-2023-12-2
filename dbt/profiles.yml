@@ -1,0 +1,12 @@
+dbt_shop:
+    outputs:
+        dev:
+            type: postgres
+            threads: 4
+            host: localhost
+            port: 5432
+            user: postgres
+            password: changeme
+            dbname: dbtdb
+            schema: dbt
+    target: dev

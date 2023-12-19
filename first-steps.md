@@ -9,5 +9,4 @@
 - git
 - IDE (pycharm community, vs code или любую удобную для вас)
 - Dbeaver
-- Airflow: https://hevodata.com/learn/install-airflow/
 
