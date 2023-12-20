@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 /.idea/
 /dbt/.user.yml
+/cloud/.terraform.lock.hcl
