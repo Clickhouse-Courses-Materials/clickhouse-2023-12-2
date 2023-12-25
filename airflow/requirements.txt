@@ -1,0 +1,15 @@
+avro-python3~=1.10.2
+pyarrow~=13.0.0
+numpy~=1.26.0
+pandas~=2.1.1
+pyspark~=3.5.0
+avro~=1.11.3
+hdfs3~=0.3.1
+minio~=7.2.0
+
+apache-airflow
+apache-airflow-providers-postgres
+airflow-providers-clickhouse
+boto3
+apache-airflow-providers-amazon
+requests~=2.31.0
